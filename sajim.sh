@@ -12,7 +12,6 @@ termux-setup-storage
 
 pkg install python -y
 
-apt uninstall python
 
 apt install python
 
